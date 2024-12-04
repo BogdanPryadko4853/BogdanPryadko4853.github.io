@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-    <img height="300" width="600" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/b730647a19e6e8f212c241689de52c42ef42433afcebad37095d0cad8c20e671.gif"  />
+    <img height="300" width="600" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/4b32ca00070ac28b260c1aa8d3a50156f1618c3efee852d553ac228e8d4a9419.gif"  />
 </div>
 
 ###
