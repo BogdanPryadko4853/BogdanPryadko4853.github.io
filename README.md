@@ -21,7 +21,7 @@
 <p align="center"><img width="600" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="snake"/></p>
 <h3 align="left">🛠 Технологии:</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center;">
     <img width="250" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="daftpunktocat-thomas"/>
     <div align="left"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
