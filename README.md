@@ -9,7 +9,6 @@
         height="25" alt="telegram logo"/> </a>
 </div>
 
-![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=BogdanPryadko4853&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
@@ -29,6 +28,8 @@ I am a Java developer with 1.5 years of experience in the field of enterprise ap
 
 Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a degree in Software Engineering (9.03.04). My academic background and practical experience have provided me with a solid foundation in software development, allowing me to contribute effectively to various projects.
 </p>
+
+![snake gif](https://github.com/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center"><img width="600" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="snake"/></p>
 <h3 align="left">🛠 Technologies:</h3>
@@ -88,8 +89,6 @@ Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a 
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
