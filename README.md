@@ -21,7 +21,8 @@
 <p align="center"><img width="600" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="snake"/></p>
 <h3 align="left">🛠 Технологии:</h3>
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+<div style=display:flex>
+<img width = 250 src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /> <img width="12" /> 
@@ -36,7 +37,9 @@
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     </div>
+    </div>
     <h4 align="center">
+<h4 align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -48,7 +51,7 @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
