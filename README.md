@@ -18,7 +18,7 @@
 </div>
 
 
-![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">👩‍💻 About Me</h3>
