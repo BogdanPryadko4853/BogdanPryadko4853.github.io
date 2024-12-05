@@ -16,6 +16,11 @@
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"/>
 </div>
+
+
+![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
+
+
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
 I am a Java developer with 1.5 years of experience in the field of enterprise application development. My journey in IT began with learning Java and has since expanded to working with frameworks and tools such as Spring, Maven, Docker, and more.
@@ -89,10 +94,6 @@ Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=BogdanPryadko4853&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
 
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
