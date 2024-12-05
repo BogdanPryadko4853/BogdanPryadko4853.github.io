@@ -3,7 +3,7 @@
     <img height="400" width="800"
          src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/4f47e4813aa2aebbe240a2e9fc56d365d48df23394574129f1bbe230e54827cc.gif"/>
 </div>
-<h1 align="center">Hello👋 My name is Bogdan!</h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!</h1>
  <a href="https://t.me/BodyaPryadko" target="_blank"> <img
         src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
         height="25" alt="telegram logo"/> </a>
@@ -72,3 +72,20 @@ Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a 
 <div align="center"> <img src="https://leetcard.jacoblin.cool/Bogdan4853" height="220" alt="leetcode stats" /> 
 </div>
 
+<h3 align="left">🔥 Stats :</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanPryadko4853&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=BogdanPryadko4853&theme=react-dark&hide_border=true&area=true)
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
