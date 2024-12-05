@@ -4,7 +4,7 @@
          src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/b730647a19e6e8f212c241689de52c42ef42433afcebad37095d0cad8c20e671.gif"/>
 </div>
 <h1 align="center">Привет👋 Меня зовут Богдан!</h1>
- <a href="https://t.me/BogdanPryadko" target="_blank"> <img
+ <a href="https://t.me/BodyaPryadko" target="_blank"> <img
         src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
         height="25" alt="telegram logo"/> </a>
 </div>
