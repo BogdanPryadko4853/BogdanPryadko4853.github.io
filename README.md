@@ -18,7 +18,7 @@
     Java и Spring Framework.<br>- ⚡ В свободное время изучаю новые технологии и инструменты для улучшения своих навыков.
 </p>
 
-<p align="center"><img width="600" src="assets/github-snake.svg" alt="snake"/></p>
+<p align="center"><img width="600" src="[assets/github-snake.svg](https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM0MDcxMzIsIm5iZiI6MTczMzQwNjgzMiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDEzNTM1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmZDJmNDA2ZjJjYTdjMGMxNjVkY2IyM2ZjMGIzOWZkOGE5NTAwZGViMzg5YTIyNDJmYjA4NThlZmJmOTdlZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8Nn108k5dCVIFnCWDtY4pyWDWhJlTgGtcaKAzv6iMko)" alt="snake"/></p>
 <h3 align="left">🛠 Технологии:</h3>
 <div align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"
                        alt="java logo"/> <img width="12"/> <img
