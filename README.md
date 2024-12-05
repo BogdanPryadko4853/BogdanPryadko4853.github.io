@@ -3,7 +3,7 @@
     <img height="400" width="800"
          src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/4f47e4813aa2aebbe240a2e9fc56d365d48df23394574129f1bbe230e54827cc.gif"/>
 </div>
-<h1 align="center">Привет👋 Меня зовут Богдан!</h1>
+<h1 align="center">Hello👋 My name is Bogdan!</h1>
  <a href="https://t.me/BodyaPryadko" target="_blank"> <img
         src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
         height="25" alt="telegram logo"/> </a>
@@ -11,19 +11,27 @@
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"/>
 </div>
-<h3 align="left">👩‍💻 Обо мне</h3>
-<p align="left">Я Java-разработчик с опытом работы в сфере разработки корпоративных приложений. Мой путь в IT начался с
-    изучения Java и постепенно расширился до работы с фреймворками и инструментами, такими как Spring, Maven, Docker и
-    другими.<br><br>- 🔭 Участвовал в разработке и поддержке корпоративных приложений.<br>- 📚 Прошел курсы и тренинги по
-    Java и Spring Framework.<br>- ⚡ В свободное время изучаю новые технологии и инструменты для улучшения своих навыков.
+<h3 align="left">👩‍💻 About Me</h3>
+<p align="left">
+I am a Java developer with 1.5 years of experience in the field of enterprise application development. My journey in IT began with learning Java and has since expanded to working with frameworks and tools such as Spring, Maven, Docker, and more.
+
+🔭 I have been involved in the development and maintenance of enterprise applications.
+
+📚 I have completed courses and trainings on Java and the Spring Framework.
+
+⚡ In my free time, I explore new technologies and tools to enhance my skills.
+
+Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a degree in Software Engineering (9.03.04). My academic background and practical experience have provided me with a solid foundation in software development, allowing me to contribute effectively to various projects.
 </p>
 
 <p align="center"><img width="600" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="snake"/></p>
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 <div style="display: flex; align-items: center;">
+<div>
     <img width="250" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="daftpunktocat-thomas"/>
-    <div align="left"> 
+</div>
+    <div align="left">  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
         <img width="12" /> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /> 
@@ -60,7 +68,7 @@
 </div>
 
 
-<h3 align="left">🔥 Моя статистика на LeetCode :</h3>
+<h3 align="left">🔥 LeetCode :</h3>
 <div align="center"> <img src="https://leetcard.jacoblin.cool/Bogdan4853" height="220" alt="leetcode stats" /> 
 </div>
 
