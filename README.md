@@ -30,13 +30,10 @@ Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a 
 </p>
 
 
-
-![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
-
-
-
 <p align="center"><img width="600" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="snake"/></p>
 <h3 align="left">🛠 Technologies:</h3>
+
+
 
 <div style="display: flex; align-items: center;">
 <div>
@@ -93,6 +90,9 @@ Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a 
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
+
+
+![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
 
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
