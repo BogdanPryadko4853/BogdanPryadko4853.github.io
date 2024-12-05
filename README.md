@@ -29,7 +29,7 @@ I am a Java developer with 1.5 years of experience in the field of enterprise ap
 Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a degree in Software Engineering (9.03.04). My academic background and practical experience have provided me with a solid foundation in software development, allowing me to contribute effectively to various projects.
 </p>
 
-![snake gif](https://github.com/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center"><img width="600" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="snake"/></p>
 <h3 align="left">🛠 Technologies:</h3>
