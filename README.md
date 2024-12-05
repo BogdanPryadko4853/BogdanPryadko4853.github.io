@@ -8,6 +8,10 @@
         src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
         height="25" alt="telegram logo"/> </a>
 </div>
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=BogdanPryadko4853&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"/>
 </div>
@@ -79,11 +83,6 @@ Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a 
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=BogdanPryadko4853&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
