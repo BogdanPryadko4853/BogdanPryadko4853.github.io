@@ -31,7 +31,7 @@ Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a 
 
 
 
-![snake gif](dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BogdanPryadko4853/BogdanPryadko4853/blob/output/github-contribution-grid-snake.gif)
 
 
 
