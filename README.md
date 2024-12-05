@@ -18,7 +18,7 @@
 </div>
 
 
-##![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](dist/github-contribution-grid-snake.svg)
+
 
 
 <h3 align="left">👩‍💻 About Me</h3>
